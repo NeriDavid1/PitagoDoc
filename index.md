@@ -1,27 +1,70 @@
 ---
-title: Index
-layout: Index
+title: Home
+layout: home
 ---
 
-This is a *bare-minimum* Hey template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Learn Math the Smart Way  
+{: .fs-9 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Pitago is a mobile app that makes learning math fun, structured, and effective. Designed for students aged 13–17, it turns problem solving into a guided, game-like journey.
+{: .fs-6 .fw-300 }
 
-More specifically, the created site:
+[Explore the roadmap](/roadmap){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Meet the mascot](/mascot){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+{: .note }
+> Pitago is currently in early testing. Want to help shape it? [Join our beta test](#coming-soon).
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## What is Pitago?
 
-To get started with creating a site, simply:
+Pitago is a mobile learning platform built to help teens truly understand math.  
+It uses interactive exercises, instant feedback, and step-by-step problem solving to teach topics clearly and effectively.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### 🔢 Core Features
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- **Topic-Based Levels**: Organized by subject and difficulty  
+- **Smart Exercise Types**: One Answer, Fill in the Blank, and MathPath  
+- **AI-Powered Feedback**: Understand what you did wrong and how to fix it  
+- **Progress Tracking**: Keep improving with adaptive level design  
+- **Tutorial Mode**: Our mascot introduces new concepts clearly and visually
+
+## Who is Pitago for?
+
+- Middle school and early high school students
+- Self-learners and homeschoolers
+- Anyone looking to truly understand math—not just memorize it
+
+## Current Status
+
+- ✅ Math content for Grade 6  
+- ✅ Three exercise types implemented  
+- ✅ Early testing with real users  
+- 🛠 In development: improved feedback, localization, leaderboard challenges  
+
+## Where we're going
+
+See our [Roadmap](/roadmap) to find out what’s coming next, including:
+- Support for more grades  
+- Community features  
+- Smarter hints  
+- Localization  
+- Mascot animations and interactions
+
+## Stay in the loop
+
+Get notified about new versions and launches.  
+[**Sign up for updates**](#coming-soon){: .btn .btn-primary }
+
+---
+
+### About the Project
+
+Pitago is built by [Neri](/about), combining passion for education, design, and game development.  
+Our goal is simple: make math learning meaningful and motivating.
+
+---
 
 ----
 

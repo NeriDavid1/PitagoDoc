@@ -1,7 +1,7 @@
 ---
-title: Home
-layout: home
-nav_order: 1
+title: Info
+layout: Info
+nav_order: 2
 description: "Pitago is a mobile app that teaches math to teens through interactive, guided exercises. Learn math the smart way, one step at a time."
 permalink: /
 ---
