@@ -63,4 +63,4 @@ Here’s a transparent look at what’s done, what’s coming soon, and where we
 ---
 
 Have ideas or suggestions?  
-We’d love to hear from you! Check out the [Mascot page](/mascot) to meet our guide — and help shape the future of Pitago.
+We’d love to hear from you! Check out the [Mascot page]({% link mascot.md %}) to meet our guide — and help shape the future of Pitago.

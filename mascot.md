@@ -46,4 +46,4 @@ Learning is more fun with a friendly face! Pit adds personality and emotional su
 ---
 
 Want to help design Pit’s next look?  
-We're inviting feedback and design submissions soon. Stay tuned through the [Roadmap](/roadmap) for updates!
+We're inviting feedback and design submissions soon. Stay tuned through the [Roadmap]({% link roadmap.md %}) for updates!
