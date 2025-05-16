@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: Index
+layout: Index
 ---
 
 This is a *bare-minimum* Hey template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
