@@ -15,7 +15,7 @@ He's here to guide, encourage, and celebrate every small victory along your Pita
 
 ---
 
-![Pit the Mascot](/assets/images/Mascot.png){: .mt-4 .mb-4 .w-50 }
+![Pit the Mascot](/assets/images/mascot.png){: .mt-4 .mb-4 .w-50 }
 
 ## 🎨 Who is Pit?
 
