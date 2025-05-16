@@ -1,78 +1,81 @@
 ---
-title: Home
-layout: home
+title: Features
+layout: default
+nav_order: 2
+description: "Explore Pitago's core features — interactive levels, smart exercises, progress tracking, AI hints, and more."
+permalink: /features
 ---
 
-# Learn Math the Smart Way  
+# Pitago Features  
 {: .fs-9 }
 
-Pitago is a mobile app that makes learning math fun, structured, and effective. Designed for students aged 13–17, it turns problem solving into a guided, game-like journey.
+Everything in Pitago is designed to make math engaging and effective. From interactive levels to AI-powered hints, each feature supports learning through practice, feedback, and fun.
 {: .fs-6 .fw-300 }
 
-[Explore the roadmap](/roadmap){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Meet the mascot](/mascot){: .btn .fs-5 .mb-4 .mb-md-0 }
+---
+
+## 📚 Topic-Based Levels
+
+Each level focuses on a specific topic and is crafted to build understanding step-by-step.
+
+- Categorized by topic and difficulty
+- Clear progression from basic to advanced skills
+- Visual indicators for mastery and retry
+
+## 🧠 Smart Exercise Types
+
+Pitago uses three main exercise formats tailored for teen learners:
+
+### 1. One Answer  
+Enter the correct expression or number. Designed for fast recall and concept checks.
+
+### 2. Fill in the Blank  
+Complete expressions by identifying the missing parts. Helps reinforce structure and syntax.
+
+### 3. MathPath  
+Step-by-step problem solving. The app checks your logic and simplification at every stage.
+
+> MathPath exercises are only used where step-solving is required.
+
+## 🤖 AI-Powered Feedback
+
+- Instant response to correct and incorrect answers
+- Visual cues and targeted explanations
+- Suggestions for improvement, not just "wrong/right"
+
+## 🚀 Progress Tracking
+
+- See your growth across topics and skills
+- Earn badges and milestones
+- Personalized suggestions based on performance
+
+## 🎮 Engaging Learning Environment
+
+- Light animations and sounds to enhance focus
+- Daily challenges and streaks to motivate consistency
+- Adaptive difficulty to keep learners in their "zone"
+
+## 🧭 Guided Tutorials
+
+New topics are introduced with short, interactive tutorials.
+
+- Introduced by our friendly mascot  
+- Uses examples and guided input  
+- Designed for first-time understanding, not memorization
+
+## 📲 On-Demand Asset Loading
+
+- Lightweight download size
+- Content is loaded per topic or level as needed
+- Supports offline learning after download
+
+## 🔒 Safe and Private
+
+- No ads, no tracking
+- Data stored securely and transparently
+- Simple account management and deletion process
 
 ---
 
-{: .note }
-> Pitago is currently in early testing. Want to help shape it? [Join our beta test](#coming-soon).
-
-## What is Pitago?
-
-Pitago is a mobile learning platform built to help teens truly understand math.  
-It uses interactive exercises, instant feedback, and step-by-step problem solving to teach topics clearly and effectively.
-
-### 🔢 Core Features
-
-- **Topic-Based Levels**: Organized by subject and difficulty  
-- **Smart Exercise Types**: One Answer, Fill in the Blank, and MathPath  
-- **AI-Powered Feedback**: Understand what you did wrong and how to fix it  
-- **Progress Tracking**: Keep improving with adaptive level design  
-- **Tutorial Mode**: Our mascot introduces new concepts clearly and visually
-
-## Who is Pitago for?
-
-- Middle school and early high school students
-- Self-learners and homeschoolers
-- Anyone looking to truly understand math—not just memorize it
-
-## Current Status
-
-- ✅ Math content for Grade 6  
-- ✅ Three exercise types implemented  
-- ✅ Early testing with real users  
-- 🛠 In development: improved feedback, localization, leaderboard challenges  
-
-## Where we're going
-
-See our [Roadmap](/roadmap) to find out what’s coming next, including:
-- Support for more grades  
-- Community features  
-- Smarter hints  
-- Localization  
-- Mascot animations and interactions
-
-## Stay in the loop
-
-Get notified about new versions and launches.  
-[**Sign up for updates**](#coming-soon){: .btn .btn-primary }
-
----
-
-### About the Project
-
-Pitago is built by [Neri](/about), combining passion for education, design, and game development.  
-Our goal is simple: make math learning meaningful and motivating.
-
----
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Ready to see what's coming next?  
+Check out the [Roadmap](/roadmap).
